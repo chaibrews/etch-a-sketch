@@ -1,8 +1,16 @@
 # Etch-a-Sketch
 
-A browser-based **Etch-a-Sketch** app built with **HTML, CSS, and JavaScript**.
+![Preview](./images/preview/preview.png)
 
-Originally developed as part of [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum, this version is enhanced with extra tools, color selection, grid customization, and artwork saving.
+[Etch-a-Sketch | Live Demo 🎨](https://chaibrews.github.io/tic-tac-toe/)
+
+A browser-based **Etch-a-Sketch** app. Originally developed as part of [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum, this version is enhanced with extra tools, color selection, grid customization, and artwork saving.
+
+## Tech Stack
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 ## Features
 
@@ -13,13 +21,7 @@ Originally developed as part of [The Odin Project Foundations](https://www.theod
 - **Clear Button** – Reset the entire canvas.
 - **Save Artwork** – Export your creation as a PNG file.
 
-## Preview
-
-![Preview](./images/preview/preview1.png)
-
-## Live Demo
-Try creating your own artwork [here](https://charmbun.github.io/etch-a-sketch/).
-
 ## License
+
 This project is for educational purposes only.
 All referenced names and image inspirations are used for non-commercial purposes.
