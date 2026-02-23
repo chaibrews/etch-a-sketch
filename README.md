@@ -1,8 +1,8 @@
 # Etch-a-Sketch
 
-![Preview](./images/preview/preview.png)
+![Preview](./assets/preview/preview.png)
 
-[Etch-a-Sketch | Live Demo 🎨](https://chaibrews.github.io/tic-tac-toe/)
+[Etch-a-Sketch | Live Demo 🎨](https://chaibrews.github.io/etch-a-sketch/)
 
 A browser-based **Etch-a-Sketch** app. Originally developed as part of [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum, this version is enhanced with extra tools, color selection, grid customization, and artwork saving.
 
